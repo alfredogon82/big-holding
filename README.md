@@ -41,8 +41,20 @@ npm install<br>
 npm run dev<br>
 php artisan migrate<br>
 <br>
+
+to run the application:
+
+php artisan serve
+
+go to -> http://127.0.0.1:8000/ and click on the register link, create and user and then log in.
+
+
+
 Alfredo Gonzàlez
 <br>
 “When one sleeps on the floor one need not worry about falling out of bed.”
 
 
+![Captura de pantalla_2023-08-07_11-53-57](https://github.com/alfredogon82/big-holding/assets/2105359/06c5c88a-56f4-4de5-9e2a-af6c5b54199d)
+![Captura de pantalla_2023-08-07_11-54-52](https://github.com/alfredogon82/big-holding/assets/2105359/e712a0c8-976f-4591-9aef-58e7923d5e52)
+![Uploading Captura de pantalla_2023-08-07_11-54-36.png…]()
