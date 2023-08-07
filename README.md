@@ -31,6 +31,20 @@ on the report i added a simple ajax request to bring the information and created
 
 just wanted to finish it on time.
 
+Before running migrations, make sure you have set up your database configuration properly in the .env file located at the root of your Laravel project. Open the .env file and provide the necessary database connection details, such as DB_CONNECTION, DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME, and DB_PASSWORD.
+
+instructions to make it work:
+
+git clone git@github.com:alfredogon82/big-holding.git
+composer require laravel/breeze --dev
+php artisan breeze:install
+select -> Blade, no, phpunit options
+npm install
+npm run dev
+
+php artisan migrate
+
+
 Alfredo Gonzàlez
 
 “When one sleeps on the floor one need not worry about falling out of bed.”
